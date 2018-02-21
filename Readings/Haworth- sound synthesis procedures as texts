@@ -1,0 +1,69 @@
+
+
+Christopher Haworth on how the ea community efforts to "[smorther the technological support upon which it relies... In a section called 'Ignoring Technology,' Smalley asserts that the listener must [[quote: try to ignore the electroacoustic and computer technology used in the music's making. Surrendering the natural desire to uncover the mysteries of electroacoustic sound-making is a diffult but necessary and logical sacrifice. {Smalley 1997, p. 108) endquote]]"
+
+"that 'reality' does not precede the mundane practives in which we interact with it, but is rather shaped within these practices" (Mol 1999 p75) [Haworth continues]: "therefore, what a thing 'is' is nor closed and cimply lying there waiting to be interpreted, but open, actively practiced, and under negotiation" (Haworth 43) (credit to Mol 1999 p75) 
+
+"...spectromorphology's ontology hinges on a version of the so-called 'neutrality thesis'. This is the view that technology is value=neutral and exists merely as a means to some predetermined end. [Feenberg 1995, p23=] Most famously critiqued by Martin Heidegger (1977), neutrality in art goes hand in hand with the idealist notion that the artist's tools are no more than a conduit of an nmediated and determinate vision." (43)
+
+"Because the theoretical model of a sound-synthesis or signal-processing procedure and its material implementation in software are not bound by any necessary relationship, multiple instantiations arise -- commersial, open source, self-authored custome software -- each bearing different interaction paradigms." (43)
+
+"...conceiving of technology as 'just tools' represents a way of navigating the variegated terrain of electronic music techniques: it is to scrape away complexity to uncover the music's perceived 'essence'" (43) <<<<THIS. away to connect to your paper for SPTH6155, since this is a reference to Heidegger's 'the question concerning technology'. ((but where Heidegger speaks about the 'instrumental view of technology', does this line up well with Haworth's discussion of instrumentality in EA?))
+
+
+
+When introducing the artists he covers in his article, they are "...'politicizing' the status of technology in electroacoustic music... their music reflexively describes and produces an aesthetic of radical 'medium specificity' around their curated software ecology." (44)
+
+
+"...rather than follow scenes or composers especially, my focus in this article will be on some of the digital instruments they use: their materialities, histories, and how these are channeled in their works. Such a methodology recognizes that instruments have a 'social life' that exceeds their mere 'thingness,' participating in aesthetics, genres, and the formation of individual-collective musical worlds (Dawe 2003)" (44) <<<THIS: perhaps MSR could augment this practice? pay attention to Haworth's methodology. 
+
+Haworth "...[considers] how practitioners themselves actively perform techology's meaningfulness. whether a composer deems technology to be 'neutral,' as in the case of Smalle; 'substantive,' as we will see in the work of Hecker and Haswell' or something else entirely, I proceed under the assumption that these positions have real effects: They are not merely supplementary. The practices I describe constitute aterial-discursive engagements with the question of what technological music 'is'. This is their ontological politics." <<<THIS: 'technology's meaningfullness' is 'actively performed'
+
+
+Haworth's article studies two ea instruments, "presenting a genealogy of them as cultural objects." (44) <<<THIS: 
+
+"...today a rhetorical practice is emerging -- one that is selective, distinguishing, even curatorial in its use of audio technologies." <<<THIS: cloning a git repository as a curatorial practice!
+
+
+the PulsarGenerator (de Campo 1999) "...is notable for acting as a material point of contact linking practitioners inside and outside of research institutions" (44) <<<THIS: musical software as 'material point of contact.'
+	-- Haworth also mentions that it became prevalent in part through discussions on Curtis Roads' '.microsound mailing list'. <<< you have examples of MSR work done on mailing lists, etc. 
+	-- Kim Cascone is among the 'linked practitioners' referenced. (Cascone 2000) <<<how does this relate to the Cascone article that Doug included in the THST5080 course?
+
+	++ Again related to this is from page 48 on dynamic stochastic synthesis: "THough much recent scholarship has focused on the synthesis method itself (Luqye 2009) and the sonic concepts it enfolds (Döbrereiner 2011), what has yet to be considered in great detail is the work this sound does in forging connections between the high modernism of its creator, Iannis Xenakis, and the contemporary noise underground." (48)
+		-- a place like github, as a social network, could be useful in examining the ways in which a given software instrument (or library that supports computer music) links musicians together (and scholars, etc).
+		-- See further in Haworth 2013. 
+
+		++ Continued: "This involves constructing a special king of author function for DSS that, again, challenges the prevailing logic of secrecy, alchemy, and semblance in electroacoustic music." (48)
+
+	In Hoffman 2009, (his PhD thesis) Xenakis' GENDYN is recreated in order to analyze Xenakis' Gendy3 and Gendy301 pieces. 
+
+
+citing a piece of software in a composition is a "paratextual practice" (Haworth 47)
+
+'medium specificity' appears again on page 47
+
+
+>>>THIS "The legal ontology of sound synthesis": "The absense of an author function that would afford some form of textual practice for this music contributes to the status of technology in its discourse and aesthetics. Ignored, resisted, or treated as though it were a natural resource rather than the product of human labor, the paradigm for the ethics of use for a sound-synthesis or signal-processing procedure is the musical instrument" (50) [[i would add, what about Heidegger's point on the standing reserve. in this sense both the human labor and the instrument are resource, no?]]
+	-- further to this point about the standing reserve, when Haworth depicts "the instrument [as] the 'always already' of musical practice (Waksman 2003 p 252) -- what a sound is rather than what it does (Fales 2002, p. 58)" >>> is the 'always already' that of the standing reserve?
+
+
+Connecting to distributed creativity (in fact, contrary to DC, and contrary to post-modern critique of singular genius):
+	"...Evol challenge us to see Persing as one of as one of [sic] hardcore's authors, a gesture that is symptomatic of the ontological politics over technical agency and labor in underground electronic music. Practicing a strenuous ethics of technological mediation, it drives the various versions of the neutrality thesis of technology into the position of supporting a 'great men' theory of electronic music composition, wherein the creativity of multiple individuals is retroactively channeled under the agency of one: the composer." (51)
+
+According to Haworth, Xenakis posited that composition includes an attention at the sample level, "...so that what is called composition includes the construction of the sound signal itself hitherto entrenched distinctions between the music and the material, process and forms, art and technics emerge as discursive rather than material." (51)
+	-- See also Xenakis 1992, p. 295
+
+	++ "...GENDYN bears the strong authorial voice of its creator, and it is this very recognizability -- stochastic synthesis's author function -- that is channeled and instrumentalized by later adopters." (51)
+
+
+Haswell and Hecker's 'Kanal GENDYN' record came accompanied by extra-musical content, including: "...the history of GENDYN, current academic research on stochastic synthesis, and [their] ongoing work with Xenakis's computer music instruments." (54)
+	IMPORTANTLY, Haworth points out that: 
+
+		"This is where the attempt to circumvent the technologically determined acousmatic reduction typically imposed by the computer, as well as the structural listening strategies inhereted from Schaeffer and spectromorphology, comes across most forcefully. >>> Constructing a discursive and sonic lexicon of techniques and software instruments, while at the same time praciticing an aesthetic of radical medium specificity, has the accumulated effect of linking sounds to sources and technologies to creators. SImilarly to live coding, but via very different means, a syntax is built around what is normally unseen: the composer's hidden software ecology." (54 )
+
+
+
+
+structural determinants and cultural determinants.
+
+
