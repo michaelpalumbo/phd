@@ -1,0 +1,525 @@
+
+Hi Doug,
+
+I’ve responded to most of your responses, and I am taking more time to think on some of the others. 
+
+Best,
+
+Michael
+On further reflection, I can see a strong case for making this piece and its entire process open access.
+
+If you've considered the previous caveat about comfort of access for others (not me), and still feel this way, then it sounds good to me : )
+I’m very pleased to hear this! 
+
+    * I’ve long been unsure how to define this: is experiencing how a work is organized along file directories, across applications, across documents, etc, an ontological perspective? (computer/info science); or as a semantic network?
+
+This bears further discussion as a potentially interesting point
+
+Reflecting on whether you are truly concerned with ontological or epistomelogical questions is a wonderful point of departure for this kind of work. An in-field reference worth checking is Cariani's article from Computers and Creativity.
+Thanks for this reference. I’ve only done a quick read of it, but I can also see how the sections on ‘observing systems’ from this article may be useful for also thinking around the degree to which the computational system that manages the phases (and potentially interacts with performers during a show) has agency. 
+ I want to write a license for this repository. I’ve never done it before, but I think it’d be a good practice to establish for myself, and it could be a good way to experiment with licenses in view of the case of the lab’s own repo(s). Just because we have the codebase in a private repository, does not mean it isn’t being shared (most of us have clones of dispersion-lab on our own machines), so this alone makes sense to have one. 
+  - reference of note for approaching publishing in the future: https://sparcopen.org/our-work/author-rights/brochure-html/
+
+Great! I’m really pleased to see this, as I’ve wondered about prospects of publishing open access whilst still submitting to historically closed-access periodicals/conferences. 
+I believe there is literature more germane to open access software, no? The above seems to focus on publication of written texts.
+Another reference is:
+https://choosealicense.com/ for code (made by GitHub.com)
+
+One important detail I learned from my meeting with Abigail Cabunoc-Mayes at Mozilla on Tuesday, was that while the Mozilla Foundation is increasingly more involved with promoting and teaching open research practices to scientific fields like neuroscience (most-dominant), physics, and less so the health sciences,  it is not yet involved with the fine arts. When we both had this realization she seemed optimistic and curious. So I think this is a potential future avenue for us. 
+
+Sounds promising!
+There is an initiative which runs 1-2 times per year called Mozilla Open Leaders (MOL). I’d like to apply for this with a project similar to gitShow next time around. https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/ 
+
+Mozilla has an annual event called Hactkoberfest, which runs in October. One of the features of this month-long event is that developers can tag an issue in their github repo (I can’t recall what the tag was, I’ve asked Abigail to remind me), but essentially other participants will be on the lookout for this particular tag and have incentives from Mozilla to solve it. Naturally, I thought about how this tag could be used compositionally, making Hacktoberfest a good candidate for some kind of distributed composition or performance. 
+
+You asked whether generative midi compositions were instruments, and whether they have agency.
+
+Not quite what I said :)
+
+I asked whether click-to-play generative compositions (nothing about MIDI here) were beyond the bounds of this project. I am getting at the degree of interactivity for code instruments/objects at any step of the process. Same reason I brought up the thought experiment of including autonomous agents (which I would advise against, as this would complexift the experiment, I think.)
+Ah! Well, I hadn’t thought of that. As long as the code in the click-to-play generative composition can be edited during each subsequent phases I think it would be fine. However, this then may pose a challenge for and group-based performance phase(s) within the piece… I suppose a patch which begins as a single-click-to-play generative composition in phase 1 may end up as a gesture controllable instrument by phase 5. This invites questions around what lengths the co-designers/co-composers may take to constrain structural changes to their work in subsequent phases. I’m not sure if I want to design the rules for the co-designers/co-composers with this in mind, or if it would be more appropriate to use this question to inform analysis at a later stage (i.e. could we compare the degree to which a system’s parameters are exposed to manual control, in a given phase, against the amount of code churn between that phase and the next; or that phase and the last phase. Or plot a patch’s controlability over its entire history, and look for correlations between this and how much the patch was edited by co-designers.  
+
+Could the degree to which an instrument is distributed or accessed be a measurement of its own agency? Is the private repo https://github.com/michaelpalumbo/phd a caged artefact?
+
+I think this line of questioning, from a eco-systemic perspective (for example), is more interesting than worrying too much about the medium of display (web vs. VR etc.) or a socio-political focus on “revealing code”*). Those things are all interesting, but in picking your focus I think this line of inquiry could bear a lot of interesting ideas/results. Your invocation of memetic agency from the PG paper begins to intersect with this nicely.
+
+*that said, I think Haworth presents a richer and more nuanced discussion of author function (w/r/t DSS) that is indeed highly relevant here.
+Yes! And I would make one change to my question: 
+Could the degree to which an instrument is distributed or accessible be a measurement of its own agency?
+And, this leads me to also wonder whether my typo — accessed — is still relevant: Does a system’s agency depend on whether another agent is there to observe its action(s)? Can I invoke the “…if a tree falls in the forest, and no one is there to hear it, does it make a sound?” 
+
+On the author function: Haworth highlights the need to focus on how a particular sound synthesis connects its users (he cites the link between Xenakis and noise music pioneers). I will note going forward the importance of having each co-designer/co-composer listen to the recording produced by the previous phase. 
+On the orange highlight: Does the 'evolutionary temporal scale of music' mentioned here refer to the temporal period of the entire existence of music, or to music's subgenres or distinctive cultures of music? The Haworth paper ‘Sound Synthesis Procedures as Texts’ could extend this discussion. At the moment, I’m referring to “…what has yet to be considered [about Dynamic stochastic synthesis (DSS)] in great detail is the work this sound does in forging connections between the high modernism of its creator, Iannis Xenakis, and the contemporary noise underground. … This involves constructing a special kind of author function for DSS that, again, challenged the prevailing logic of secrecy, alchemy, and semblance in electroacoustic music.” 
+
+On the red highlighted section: that Brown article is compelling. Interesting that he offers a counter to Latour’s ** assertion “…that his view of technologies is ontologically oppositional to Martin Heidegger’s… [that] Heidegger (1977) suggests that the ontological status of technologies is grounded in the way they reflect aspects of their makers and users, as what he termed their capacity for ‘revealing’ and ‘enframing’**. These aspects of reflected and imbued intent are significant in ascribing agency to computer music technologies.” (Brown 180) 
+
+
+Yes! And how does/n't the stretching of autonomy and causality in contemporary interactive systems shift this stance?! Before even mentioning distributed authorship...
+
+
+ ***  I’m aware of Ian’s own reliance on Latour for grounding some of his work (or at least this was sometimes the case in the past), and I’ve often wondered if one unspoken potential cause of some of the friction in our discourse has been that [1] I do not have a background in Latour nor communication studies, and [2] despite encountering his work many times, including several courses at York, I generally have not found Latour’s theories helpful when engaging with my own work. Now however, I wonder if this other interpretation of Latour, one which is inclusive of some of the ideas from Hedegger's "The Question Concerning Technology, and Other Essays”, might help me to bridge with some of Ian’s other ideas? Thoughts?
+
+I think using this experiment, taking an open and listening-oriented interest in Ian's work, and hopefully you both working in the lab with me this year on the “emergent gesture database” research (another discussion to have soon) can be a grounding place to have nice discussions that don't need to focus on camps, oppositionality, or positioning. There is too much of that, unnecessarily so, in academia : )
+Happy to hear it. I didn’t mean to imply that I was siloing myself within Heidegger. I’m certainly happy to listen and lean in with interest! 
+
+
+We could also enter into this subject through Born’s and Haworth's invocation of retentions and protentions, also at a higher temporal scale than Husserl’s original intention.
+
+(....perhaps as a product of their time and place)
+
+I also read the final sentence of the above excerpt as intersecting with this question of an instrument’s own agency. That the ‘temporalizing practices’ are “...enabled or resisted, by the material and/or aesthetic ‘action' or ‘torque' exerted by nonhuman actors…” (ibid)  If we are to ask about an instrument's agency, is its repository part of its extended mind, and would it’s oeuvre contain each of its permutations via the ways a repo can be distributed? 
+
+Distribution methods could exceed or exclude the boundaries of git’s own protocols i.e. I could transfer a document to you via usb key. Do Gell or others make space in an oeuvre for that which either hasn’t been documented or is documented but is not accessible (perhaps it is in an outdated format, proprietary, subject to copyright, etc)? 
+
+I think we are getting into some interesting territory now.
+
+
+
+
+
+
+
+Gell writes about the graphic i shared below in his Network of Standard Stoppages article as well. His caption for it in this article is "The artist’s oeuvre as a tempotal-relational diagram"(111): “If we take a look at this diagram as a whole we can see that it takes the form of a dense mesh of protentions and retensions. If we take any partiular work as our point of departure, it becomes equivalnt to a ‘present moment’ which is a retention, as a modified form, of a fan of ‘pasts’, and which may also embody a projected ‘future’, but all these ‘pasts’ and ‘futures’ may themselves be taken up and considered as ‘relative presents’, and in each case all their (relative) pasts and futures take on a different shading. … In other words, Duchamp’s entire oeuvre is a ‘network of stops’, structurally identical though on a much grander scale, to the superimposed images revealed in the ‘Network of Stoppages’ with which we began this discussion.” (111)
+
+I find this to be key to your usage! In what way (if any) does this framework become stretched/challenged in the face of dealing with interactive code-based processes rather than sculptural and “static” art objects?
+
+
+
+
+How should we refer to participants? Composers? Lab members? Players? Designers? I don’t like participants…
+
+-How about co-designers or co-composers?
+
+
+
+Something I think about when I see diagrams like “fig 9.4/1.jpg” from Art & Agency: .....
+is to want to build a system for playing with a repo's history as a many-dimensional field of states, and interpolate [between? within?] them, taking as inspiration how you interpolate between mappings [[i may use the term interpolate somewhat loosely here. another way i’m thinking about it is in the sense of remixing, take a feature from one version and combine it with a feature from another, maybe even be able to quickly a/b/y the two versions without stopping the audio scheduler]]. An interactive system which works like this is actually a longer-term goal of mine, and I think its rough draft(s) could be iterated as the performance system during play sessions/performances, which I mention later on.
+
+
+--this paints a great picture of a type of expression/manipulation that you are personally interested in from a meta-instrumental point of view. Thinking and discussing a bit more about the interest in the collective, and the boundaries of co-composing and co-designing could help get to the heart of the larger “why” for this particular piece.
+
+
+One thing I will mention is that it would be good to clarify the priority of your interest in the visualization/representation/interaction of repository and the nature (and process) of emergent code objects themselves, what they represent, and the experiences of participants. If the latter is truly the focus, to my mind the latter should only be scaled to serve this purpose, rather than become the research in and of itself. This is definitely in the interest of not being driven purely by tool-first thinking. (e.g. Why jump to VR simply because one can? In what ways might the structure of the piece and the nature of the interests require this medium?)
+---
+
+
+-what data do you think we should collect and analyze to try and answer these?  
+--(Git commits/diffs? knowledge represented in the code itself? participant comments? I have some intuition of what you might say, but trying to help with the structuring of this from the research side of things.)
+
+MP: “I don’t have my notes on this on-hand. I’ll get back to you about this. In the meantime, could we measure to what extent a participant engages other participants’ traces (commits, commit messages, documentation, recordings, scores)? “
+
+
+
+-do you have any points of reference to past works in the field of computer music that you think this is in dialogue with (building upon, in the spirit of, etc.)? (i.e. from ICMC/NIME/SMC confs or CMJ/JNMR/OS journals, etc.)
+a few:
+
+Rutz’s ‘Sound Processes’ paper hits a couple of marks… !!
+https://quod.lib.umich.edu/cache//b/b/p/bbp2372.2014.245/bbp2372.2014.245.pdf#page=1;zoom=75
+ — I just came across this one, so i’m still reading in depth, but his memory model and reflections on decision-making and composition has me excited. 
+
+--This author seems to be thinking in an interesting way about memory w/r/t/ musical representations and object-ness. This one seems worthy of reacting towards/against and having a bit more discussion, to see if it is perhaps a good model to follow.
+
+
+
+-what is the ideal time window to do the piece/experiment? (Fall/Winter? any specific month?)
+I do think the Fall would be the ideal time for this. Could we arrange some play sessions in the lab following every 2-3 phases? I’d want to use this to work on the system which determines which versions of a given patch are loaded for a player. I’d also like to arrange a performance for December or January at some venue downtown, like array or trinity square video (the latter of which has an open call due at the end of this month). I also wonder about putting together a networked performance for ICMC, or even ICLC 2019, (the submissions are due at the end of august as well). 
+As we are gearing to run sessions in November and December, could we work out a schedule for the in-lab sessions, when the phases themselves should run, and when we could schedule a performance(s)?
+--I am personally not so convinced in the connection with ICLC, given its narrow focus that seems a bit tangential. How about ICMC or NIME? At any case I find it is great to set a focus and then forget it completely while keeping deadlines deep in the subconscious mind : )
+Yes in hindsight I agree with you! — I think I was caught up with the fact that it’s a piece that is deeply involved with coding and that the conference would include a lot of coders, but this piece really isn’t within the purview of live coding. 
+
+I would love to submit this to NIME or ICMC! I wonder if it could also be submitted to something like ISEA?
+-is there an ideal, min or max number of participants?
+Ideal is 6, i think, including myself. Min is 4, max… not sure. probably 7 or 8… 
+-kieran, ian, rory, amirbahador, myself, others…..
+Yep, I had assumed these people would be involved, actually. (Although I don’t know Amirbahador... if you think they are suitable that’s great!) 
+
+I can really appreciate Clark and Tindale’s emphasis on interoperability here, particularly when I think about the problem of  interpolation-between-versions or between parts of versions.  :
+https://quod.lib.umich.edu/i/icmc/bbp2372.2014.235/1/--flocking-a-framework-for-declarative-music-making-on-theweb?rgn=full+text;view=image
+
+--more thoughts on this needed if still germane:
+
+
+
+Aaron and Judge’s invokation of ‘non-cochlear’ in terms of “music as social behaviour” is interesting, and makes me want to re-read parts of Kim-Cohen’s blink of an ear, maybe it relates nicely to Haworth and DMIs as texts, or the social network of a VCS. However, their ‘snapshots’ framework operates at the timescale of OSC messages, perhaps too micro-temporal for our use? 
+
+https://quod.lib.umich.edu/cache//b/b/p/bbp2372.2012.041/bbp2372.2012.041.pdf#page=2;zoom=75
+
+
+this work seemingly has an emphasis on design philosophy, focused on reducing alientation for audience/performer. How does your interest here intersect or differ?
+Well in the very least, I haven’t put much consideration towards what the audience would experience, at least not in the visual domain beyond x-number of performers on stage with laptops. 
+
+Best,
+
+Michael
+
+---------
+
+Michael Palumbo
+PhD Student, Department of Theatre & Performance Studies
+York University, Toronto
+
+647-290-1552
+info@palumbomichael.com
+http://www.palumbomichael.com
+http://dispersionlab.org/people/michael-palumbo/
+On Aug 29, 2018, 10:26 PM -0400, doug van nort <dvnt.sea@gmail.com>, wrote:
+Hi Michael,
+
+I’ve nonlinearly culled your last 3 messages and excerpted those points I felt compelled to respond to ,as well as porting over still-standing questions that we have.
+
+Bold are my replies, except for one case (where I have cited MP:””), which I have bolded as it is still an active question.
+
+Looking forward to chatting more soon about this, as well as establishing if/when/how much you would like to work in the lab with me on other research projects this year.
+
+Best,
+
+Doug
+
+
+
+p.s.
+In short: 
+mid-Sept to mid-Nov I am going to be largely focused on grant writing, getting EAO up to speed, and finishing the “infrastructural” lab projects (haptic floor, virtual acoustics, kinects).
+This is why I proposed mid-Nov for gitShow commencing (as I want to take part), but I am open to what works best for you and all.
+
+
+-----
+
+On further reflection, I can see a strong case for making this piece and its entire process open access.
+
+If you've considered the previous caveat about comfort of access for others (not me), and still feel this way, then it sounds good to me : )
+
+    * I’ve long been unsure how to define this: is experiencing how a work is organized along file directories, across applications, across documents, etc, an ontological perspective? (computer/info science); or as a semantic network?
+
+This bears further discussion as a potentially interesting point
+
+Reflecting on whether you are truly concerned with ontological or epistomelogical questions is a wonderful point of departure for this kind of work. An in-field reference worth checking is Cariani's article from Computers and Creativity.
+
+
+ I want to write a license for this repository. I’ve never done it before, but I think it’d be a good practice to establish for myself, and it could be a good way to experiment with licenses in view of the case of the lab’s own repo(s). Just because we have the codebase in a private repository, does not mean it isn’t being shared (most of us have clones of dispersion-lab on our own machines), so this alone makes sense to have one. 
+  - reference of note for approaching publishing in the future: https://sparcopen.org/our-work/author-rights/brochure-html/
+
+I believe there is literature more germane to open access software, no? The above seems to focus on publication of written texts.
+
+
+One important detail I learned from my meeting with Abigail Cabunoc-Mayes at Mozilla on Tuesday, was that while the Mozilla Foundation is increasingly more involved with promoting and teaching open research practices to scientific fields like neuroscience (most-dominant), physics, and less so the health sciences,  it is not yet involved with the fine arts. When we both had this realization she seemed optimistic and curious. So I think this is a potential future avenue for us. 
+
+Sounds promising!
+
+
+
+
+
+
+You asked whether generative midi compositions were instruments, and whether they have agency.
+
+Not quite what I said :)
+
+I asked whether click-to-play generative compositions (nothing about MIDI here) were beyond the bounds of this project. I am getting at the degree of interactivity for code instruments/objects at any step of the process. Same reason I brought up the thought experiment of including autonomous agents (which I would advise against, as this would complexift the experiment, I think.)
+
+Could the degree to which an instrument is distributed or accessed be a measurement of its own agency? Is the private repo https://github.com/michaelpalumbo/phd a caged artefact?
+
+I think this line of questioning, from a eco-systemic perspective (for example), is more interesting than worrying too much about the medium of display (web vs. VR etc.) or a socio-political focus on “revealing code”*). Those things are all interesting, but in picking your focus I think this line of inquiry could bear a lot of interesting ideas/results. Your invocation of memetic agency from the PG paper begins to intersect with this nicely.
+
+*that said, I think Haworth presents a richer and more nuanced discussion of author function (w/r/t DSS) that is indeed highly relevant here.
+
+
+On the orange highlight: Does the 'evolutionary temporal scale of music' mentioned here refer to the temporal period of the entire existence of music, or to music's subgenres or distinctive cultures of music? The Haworth paper ‘Sound Synthesis Procedures as Texts’ could extend this discussion. At the moment, I’m referring to “…what has yet to be considered [about Dynamic stochastic synthesis (DSS)] in great detail is the work this sound does in forging connections between the high modernism of its creator, Iannis Xenakis, and the contemporary noise underground. … This involves constructing a special kind of author function for DSS that, again, challenged the prevailing logic of secrecy, alchemy, and semblance in electroacoustic music.” 
+
+On the red highlighted section: that Brown article is compelling. Interesting that he offers a counter to Latour’s ** assertion “…that his view of technologies is ontologically oppositional to Martin Heidegger’s… [that] Heidegger (1977) suggests that the ontological status of technologies is grounded in the way they reflect aspects of their makers and users, as what he termed their capacity for ‘revealing’ and ‘enframing’**. These aspects of reflected and imbued intent are significant in ascribing agency to computer music technologies.” (Brown 180) 
+
+
+Yes! And how does/n't the stretching of autonomy and causality in contemporary interactive systems shift this stance?! Before even mentioning distributed authorship...
+
+
+ ***  I’m aware of Ian’s own reliance on Latour for grounding some of his work (or at least this was sometimes the case in the past), and I’ve often wondered if one unspoken potential cause of some of the friction in our discourse has been that [1] I do not have a background in Latour nor communication studies, and [2] despite encountering his work many times, including several courses at York, I generally have not found Latour’s theories helpful when engaging with my own work. Now however, I wonder if this other interpretation of Latour, one which is inclusive of some of the ideas from Hedegger's "The Question Concerning Technology, and Other Essays”, might help me to bridge with some of Ian’s other ideas? Thoughts?
+
+I think using this experiment, taking an open and listening-oriented interest in Ian's work, and hopefully you both working in the lab with me this year on the “emergent gesture database” research (another discussion to have soon) can be a grounding place to have nice discussions that don't need to focus on camps, oppositionality, or positioning. There is too much of that, unnecessarily so, in academia : )
+
+
+
+We could also enter into this subject through Born’s and Haworth's invocation of retentions and protentions, also at a higher temporal scale than Husserl’s original intention.
+
+(....perhaps as a product of their time and place)
+
+I also read the final sentence of the above excerpt as intersecting with this question of an instrument’s own agency. That the ‘temporalizing practices’ are “...enabled or resisted, by the material and/or aesthetic ‘action' or ‘torque' exerted by nonhuman actors…” (ibid)  If we are to ask about an instrument's agency, is its repository part of its extended mind, and would it’s oeuvre contain each of its permutations via the ways a repo can be distributed? 
+
+Distribution methods could exceed or exclude the boundaries of git’s own protocols i.e. I could transfer a document to you via usb key. Do Gell or others make space in an oeuvre for that which either hasn’t been documented or is documented but is not accessible (perhaps it is in an outdated format, proprietary, subject to copyright, etc)? 
+
+I think we are getting into some interesting territory now.
+
+
+
+
+
+
+
+Gell writes about the graphic i shared below in his Network of Standard Stoppages article as well. His caption for it in this article is "The artist’s oeuvre as a tempotal-relational diagram"(111): “If we take a look at this diagram as a whole we can see that it takes the form of a dense mesh of protentions and retensions. If we take any partiular work as our point of departure, it becomes equivalnt to a ‘present moment’ which is a retention, as a modified form, of a fan of ‘pasts’, and which may also embody a projected ‘future’, but all these ‘pasts’ and ‘futures’ may themselves be taken up and considered as ‘relative presents’, and in each case all their (relative) pasts and futures take on a different shading. … In other words, Duchamp’s entire oeuvre is a ‘network of stops’, structurally identical though on a much grander scale, to the superimposed images revealed in the ‘Network of Stoppages’ with which we began this discussion.” (111)
+
+I find this to be key to your usage! In what way (if any) does this framework become stretched/challenged in the face of dealing with interactive code-based processes rather than sculptural and “static” art objects?
+
+
+
+
+How should we refer to participants? Composers? Lab members? Players? Designers? I don’t like participants…
+
+-How about co-designers or co-composers?
+
+
+
+Something I think about when I see diagrams like “fig 9.4/1.jpg” from Art & Agency: .....
+is to want to build a system for playing with a repo's history as a many-dimensional field of states, and interpolate [between? within?] them, taking as inspiration how you interpolate between mappings [[i may use the term interpolate somewhat loosely here. another way i’m thinking about it is in the sense of remixing, take a feature from one version and combine it with a feature from another, maybe even be able to quickly a/b/y the two versions without stopping the audio scheduler]]. An interactive system which works like this is actually a longer-term goal of mine, and I think its rough draft(s) could be iterated as the performance system during play sessions/performances, which I mention later on.
+
+
+--this paints a great picture of a type of expression/manipulation that you are personally interested in from a meta-instrumental point of view. Thinking and discussing a bit more about the interest in the collective, and the boundaries of co-composing and co-designing could help get to the heart of the larger “why” for this particular piece.
+
+
+One thing I will mention is that it would be good to clarify the priority of your interest in the visualization/representation/interaction of repository and the nature (and process) of emergent code objects themselves, what they represent, and the experiences of participants. If the latter is truly the focus, to my mind the latter should only be scaled to serve this purpose, rather than become the research in and of itself. This is definitely in the interest of not being driven purely by tool-first thinking. (e.g. Why jump to VR simply because one can? In what ways might the structure of the piece and the nature of the interests require this medium?)
+---
+
+
+-what data do you think we should collect and analyze to try and answer these?  
+--(Git commits/diffs? knowledge represented in the code itself? participant comments? I have some intuition of what you might say, but trying to help with the structuring of this from the research side of things.)
+
+MP: “I don’t have my notes on this on-hand. I’ll get back to you about this. In the meantime, could we measure to what extent a participant engages other participants’ traces (commits, commit messages, documentation, recordings, scores)? “
+
+
+
+-do you have any points of reference to past works in the field of computer music that you think this is in dialogue with (building upon, in the spirit of, etc.)? (i.e. from ICMC/NIME/SMC confs or CMJ/JNMR/OS journals, etc.)
+a few:
+
+Rutz’s ‘Sound Processes’ paper hits a couple of marks… !!
+https://quod.lib.umich.edu/cache//b/b/p/bbp2372.2014.245/bbp2372.2014.245.pdf#page=1;zoom=75
+ — I just came across this one, so i’m still reading in depth, but his memory model and reflections on decision-making and composition has me excited. 
+
+--This author seems to be thinking in an interesting way about memory w/r/t/ musical representations and object-ness. This one seems worthy of reacting towards/against and having a bit more discussion, to see if it is perhaps a good model to follow.
+
+
+
+-what is the ideal time window to do the piece/experiment? (Fall/Winter? any specific month?)
+I do think the Fall would be the ideal time for this. Could we arrange some play sessions in the lab following every 2-3 phases? I’d want to use this to work on the system which determines which versions of a given patch are loaded for a player. I’d also like to arrange a performance for December or January at some venue downtown, like array or trinity square video (the latter of which has an open call due at the end of this month). I also wonder about putting together a networked performance for ICMC, or even ICLC 2019, (the submissions are due at the end of august as well). 
+
+--I am personally not so convinced in the connection with ICLC, given its narrow focus that seems a bit tangential. How about ICMC or NIME? At any case I find it is great to set a focus and then forget it completely while keeping deadlines deep in the subconscious mind : )
+
+--What about running it mid-Nov to mid-Dec? Or the bulk of the work? I'll have more time at that point…. (as per the above…)
+
+
+
+-is there an ideal, min or max number of participants?
+Ideal is 6, i think, including myself. Min is 4, max… not sure. probably 7 or 8… 
+-kieran, ian, rory, amirbahador, myself, others.....
+
+I can really appreciate Clark and Tindale’s emphasis on interoperability here, particularly when I think about the problem of  interpolation-between-versions or between parts of versions.  :
+https://quod.lib.umich.edu/i/icmc/bbp2372.2014.235/1/--flocking-a-framework-for-declarative-music-making-on-theweb?rgn=full+text;view=image
+
+--more thoughts on this needed if still germane:
+
+
+
+Aaron and Judge’s invokation of ‘non-cochlear’ in terms of “music as social behaviour” is interesting, and makes me want to re-read parts of Kim-Cohen’s blink of an ear, maybe it relates nicely to Haworth and DMIs as texts, or the social network of a VCS. However, their ‘snapshots’ framework operates at the timescale of OSC messages, perhaps too micro-temporal for our use? 
+
+https://quod.lib.umich.edu/cache//b/b/p/bbp2372.2012.041/bbp2372.2012.041.pdf#page=2;zoom=75
+
+
+this work seemingly has an emphasis on design philosophy, focused on reducing alientation for audience/performer. How does your interest here intersect or differ?
+
+
+
+
+
+
+
+On Aug 16, 2018, at 1:54 PM, Michael Palumbo <info@palumbomichael.com> wrote:
+
+Hi Doug,
+
+On further reflection, I can see a strong case for making this piece and its entire process open access. You shared an uneasiness towards the thought of future visitors viewing your code in a messy state. I do share this uneasiness with you, but it hasn’t always prevented me from open-sourcing my work, and in some cases I believe it has improved my workflow and output. One reason I appreciate github is it exposes you to how others organize their work.* Leaving aside that git and github each constrain ways of working, it is not imperative to conform to others’ ways of working. At this point I would contend that the system as we discussed on Tuesday and in this thread is already, in part, open, since there will be lab members having access to each others’ contributions. One possible question of interest, and I do wonder if it is helpful to think about protentions here, is whether your own interaction with your work (and others) changes depending on whether you can conceive of who will be accessing your work. 
+    * I’ve long been unsure how to define this: is experiencing how a work is organized along file directories, across applications, across documents, etc, an ontological perspective? (computer/info science); or as a semantic network? or…? Basically I’ve always struggled with identifying what this is, and where to locate related helpful/challenging discourses.
+
+Revisiting notes on Haworth’s “Sound Synthesis Procedures as Texts” after our conversation, I came across this excerpt: 
+“Constructing a discursive and sonic lexicon of techniques and software instruments while at the same time practicing an aesthetic of radical medium specificity, has the accumulated effect of linking sounds to sources and technologies to creators. Similarly to live coding, but via very different means, a syntax is built around what is normally unseen: the composer’s hidden software ecology.” (Haworth 54)
+
+This, I think, ties in well with the part of the structure of gitShow which requires members to compose music for their stable versions of their phase-assigned instrument and record improvisation(s) as well. And in many ways I believe it can draw from what Haworth calls a ‘paratextual practice’ (Haworth 47). For example, I have decided that all text components of a score for each phase must be written as a commit message! I’ll emphasize here that you can only tag a commit after it has been committed, which I think is advantageous to relieving pressure during the writing process — does it make room for meaning to be asynchronously ascribed to texts (committed notes, scratch pads, annotation(?), rough drafts). In other words, any commit you write becomes a retention which may be reclassified at a later date with a tag that assigns meaning to it. Might this help us (investigators) to mine/play with as a compositional/performative parameter the significance(s) of a commit relative to any lab member that may encounter it?
+
+ I want to write a license for this repository. I’ve never done it before, but I think it’d be a good practice to establish for myself, and it could be a good way to experiment with licenses in view of the case of the lab’s own repo(s). Just because we have the codebase in a private repository, does not mean it isn’t being shared (most of us have clones of dispersion-lab on our own machines), so this alone makes sense to have one. 
+  - reference of note for approaching publishing in the future: https://sparcopen.org/our-work/author-rights/brochure-html/
+
+One important detail I learned from my meeting with Abigail Cabunoc-Mayes at Mozilla on Tuesday, was that while the Mozilla Foundation is increasingly more involved with promoting and teaching open research practices to scientific fields like neuroscience (most-dominant), physics, and less so the health sciences,  it is not yet involved with the fine arts. When we both had this realization she seemed optimistic and curious. So I think this is a potential future avenue for us. 
+
+There is an event at mozilla each october called Hacktoberfest. All you have to do is create some issues in a github repo and tag them with “hacktoberfest”, and other participants in the fest can submit pull requests to help you out. So I would love for a component of this artpiece to include lab members creating issues within the repo(s) that they are assigned during the month of october. One neat aspect of this will be that we could set permissions so that only the lab member assigned to the repo during a given phase may accept a pull request from an outside source, which gets really interesting if said pull request addresses an issue that a previous member posted (and cannot, therefore be the one to accept the changes!)
+
+There is a semi-annual training program offered by mozilla called mozilla open leaders. You propose a research project (and can do so as an individual or as a team) and then you participate in classes/workshops over the course of a few months, curated by mozilla, on how to integrate open-research into one’s work process(s). The deadline for the current round in the fall has passed, but I really think it that this project or something like would be a great fit for this program. https://foundation.mozilla.org/opportunity/mozilla-open-leaders/
+
+There are funding opportunities for work that aligns with open-research policies. At first glance, it appears this is far more concentrated in sciences, which is interesting, and if there is indeed a dearth of open-research/access fine arts opportunities it would be worth writing about. I wonder about this as a potential stream toward connecting with performance studies. This, for example: https://science.mozilla.org/programs/fellowships
+
+Open research is, in some disciplines, increasingly being accepted for promotion/tenure. https://sfdora.org/ (or some examples of institutions backing this: https://sfdora.org/good-practices/funders/)
+
+You asked whether generative midi compositions were instruments, and whether they have agency. Could the degree to which an instrument is distributed or accessed be a measurement of its own agency? Is the private repo https://github.com/michaelpalumbo/phd a caged artefact?
+
+It would be really great if we could cite not only the documents and their versions from this project in future workshops/writing/grant applications etc, but having the work cloned/forked/pull-requested by others could open us up to new opportunities. And, I also wonder if it could intersect with your 2018 moco paper on Posthuman Gesture: 
+
+
+<jarvisVanNort_posthumanGesture_moco2018_final_page_2.jpeg>
+On the orange highlight: Does the 'evolutionary temporal scale of music' mentioned here refer to the temporal period of the entire existence of music, or to music's subgenres or distinctive cultures of music? The Haworth paper ‘Sound Synthesis Procedures as Texts’ could extend this discussion. At the moment, I’m referring to “…what has yet to be considered [about Dynamic stochastic synthesis (DSS)] in great detail is the work this sound does in forging connections between the high modernism of its creator, Iannis Xenakis, and the contemporary noise underground. … This involves constructing a special kind of author function for DSS that, again, challenged the prevailing logic of secrecy, alchemy, and semblance in electroacoustic music.” 
+
+On the red highlighted section: that Brown article is compelling. Interesting that he offers a counter to Latour’s ** assertion “…that his view of technologies is ontologically oppositional to Martin Heidegger’s… [that] Heidegger (1977) suggests that the ontological status of technologies is grounded in the way they reflect aspects of their makers and users, as what he termed their capacity for ‘revealing’ and ‘enframing’**. These aspects of reflected and imbued intent are significant in ascribing agency to computer music technologies.” (Brown 180) 
+ ** I came across enframing during a philosophy course at york on accelerationism. I have often wondered how the ideas I began to express in that paper could be further explored through our work together. Heidegger's idea of the ‘standing reserve’ could be folded into this discussion on “...[tracing] the consequence of human intentionality…” (Jarvis and Van Nort 2) See http://michaelpalumbo.github.io/spth6155
+ ***  I’m aware of Ian’s own reliance on Latour for grounding some of his work (or at least this was sometimes the case in the past), and I’ve often wondered if one unspoken potential cause of some of the friction in our discourse has been that [1] I do not have a background in Latour nor communication studies, and [2] despite encountering his work many times, including several courses at York, I generally have not found Latour’s theories helpful when engaging with my own work. Now however, I wonder if this other interpretation of Latour, one which is inclusive of some of the ideas from Hedegger's "The Question Concerning Technology, and Other Essays”, might help me to bridge with some of Ian’s other ideas? Thoughts?
+
+We could also enter into this subject through Born’s and Haworth's invocation of retentions and protentions, also at a higher temporal scale than Husserl’s original intention.
+<Born - Making Time- Temporality, History, and the Cultural Object page 378.jpeg>
+I also read the final sentence of the above excerpt as intersecting with this question of an instrument’s own agency. That the ‘temporalizing practices’ are “...enabled or resisted, by the material and/or aesthetic ‘action' or ‘torque' exerted by nonhuman actors…” (ibid)  If we are to ask about an instrument's agency, is its repository part of its extended mind, and would it’s oeuvre contain each of its permutations via the ways a repo can be distributed? 
+
+Distribution methods could exceed or exclude the boundaries of git’s own protocols i.e. I could transfer a document to you via usb key. Do Gell or others make space in an oeuvre for that which either hasn’t been documented or is documented but is not accessible (perhaps it is in an outdated format, proprietary, subject to copyright, etc)? 
+
+
+Best,
+
+
+Michael
+
+---------
+
+Michael Palumbo
+PhD Student, Department of Theatre & Performance Studies
+York University, Toronto
+
+647-290-1552
+info@palumbomichael.com
+www.palumbomichael.com
+www.dispersionlab.org
+On Aug 9, 2018, 1:57 PM -0400, Michael Palumbo <info@palumbomichael.com>, wrote:
+Hi Doug, just following up with the passage from Gell 
+
+
+
+-is there a specific citation that you have for Gell-invoking-Husserl in this way? (text page/passage)
+“One feature of the Husserl protentional-retentional model deserves additional comment. Although it is put forward in relation to internal time-consciousness implicitly in relation to short durations and moment-to-moment psychological processes, there is no reason to think that the same model cannot serve as a representation of the subjective aspect of temporal processes of longer durations, up to the span of an entire lifetime, or longer if we include the vicarious past and future which historical consciousness provides us with. The Husserl model furnishes us with an instrument of great subtlety for handling the conceptual problems of continuity and change in relation to historical and sociological processes, as well as psychological ones; in this guise it reappears frequently in the writings of Sartre, Merleau-Ponty and Bourdieu, among others. 
+ The Painting the Network of Stoppages, which we have been examining, shows us a protentional-retentional field on a scale of a few years, between, say, 1910 and 1918, focused on the ‘now’ moment of the actual making of the image in 1914.” (Gell. The Network of Standard Stoppages. Page 107 in editors Chua and Elliot’s “Distributed Objects: Meaning and Mattering after Alfred Gell”)
+
+Another quote of interest is “…the significance of any Duchamp work is never anything but relative, because it is never in the individual works, the ‘stops’, that meaning resides, but only in the gaps which lie between them. …it is only in conjunction with other works produced earlier, simultaneously, or later, that this or any other work in the Duchampian oeuvre reveals its meaning.” (112). 
+
+Last, Gell writes about the graphic i shared below in his Network of Standard Stoppages article as well. His caption for it in this article is "The artist’s oeuvre as a tempotal-relational diagram"(111): “If we take a look at this diagram as a whole we can see that it takes the form of a dense mesh of protentions and retensions. If we take any partiular work as our point of departure, it becomes equivalnt to a ‘present moment’ which is a retention, as a modified form, of a fan of ‘pasts’, and which may also embody a projected ‘future’, but all these ‘pasts’ and ‘futures’ may themselves be taken up and considered as ‘relative presents’, and in each case all their (relative) pasts and futures take on a different shading. … In other words, Duchamp’s entire oeuvre is a ‘network of stops’, structurally identical though on a much grander scale, to the superimposed images revealed in the ‘Network of Stoppages’ with which we began this discussion.” (111)
+
+ 
+
+
+On Aug 8, 2018, 5:36 PM -0400, Michael Palumbo <info@palumbomichael.com>, wrote:
+Hi Doug, 
+
+Up top, and I think this might be a smaller, ongoing discussion: How should we refer to participants? Composers? Lab members? Players? Designers? I don’t like participants…
+
+-what would you say are the 1-2 overarching research questions for you in this project? completely OK if these are still rough, but this is an important exercise.
+
+
+
+Something I think about when I see diagrams like “fig 9.4/1.jpg” from Art & Agency: <369763CDE59F4E37B1EE9AEF6DF40C3B.png>
+
+
+is to want to build a system for playing with a repo's history as a many-dimensional field of states, and interpolate [between? within?] them, taking as inspiration how you interpolate between mappings [[i may use the term interpolate somewhat loosely here. another way i’m thinking about it is in the sense of remixing, take a feature from one version and combine it with a feature from another, maybe even be able to quickly a/b/y the two versions without stopping the audio scheduler]]. An interactive system which works like this is actually a longer-term goal of mine, and I think its rough draft(s) could be iterated as the performance system during play sessions/performances, which I mention later on. Some of my responses about gitShow have this larger picture in mind:
+
+How could participant interactions with the codebase be logged such that they may be attributed with a type of directional link from fig 1. — precursor, sketch, recapitulation, and copy? 
+ - Would the meaning(s) assigned to a link in the graph be useful/interesting to lab members in a performance setting? Would they be useful during compositional stages?
+  — Could integrate this, for example: https://github.com/obernal/github-force-graphs
+  — example of link-type direction: https://vasturiano.github.io/3d-force-graph/example/highlight/
+ - Would the link-type change following certain subsequent interactions with the codebase? What would be a great way to represent this particular change? This is where using a three-dimensional or VR, could be useful (Graham and I have discussed this).  I imagine displaying the series of graphed repo states within a larger graph, where the larger graph could show the path of the interpolation between states. 
+  — https://vasturiano.github.io/3d-force-graph/example/large-graph/ << interact using mousepad, including zoom. click a node to visit a particular commit?
+
+
+-what data do you think we should collect and analyze to try and answer these?  
+--(Git commits/diffs? knowledge represented in the code itself? participant comments? I have some intuition of what you might say, but trying to help with the structuring of this from the research side of things.)
+
+I don’t have my notes on this on-hand. I’ll get back to you about this. In the meantime, could we measure to what extent a participant engages other participants’ traces (commits, commit messages, documentation, recordings, scores)? 
+
+
+-is there a specific citation that you have for Gell-invoking-Husserl in this way? (text page/passage)
+yes, and it is from Gell’s paper “The Network of Standard Stoppages" I don’t have the book or the appropriate notebook in front of me at the moment — will look it up when I get home later. 
+-do you have any points of reference to past works in the field of computer music that you think this is in dialogue with (building upon, in the spirit of, etc.)? (i.e. from ICMC/NIME/SMC confs or CMJ/JNMR/OS journals, etc.)
+a few:
+
+Rutz’s ‘Sound Processes’ paper hits a couple of marks… !!
+https://quod.lib.umich.edu/cache//b/b/p/bbp2372.2014.245/bbp2372.2014.245.pdf#page=1;zoom=75
+ — I just came across this one, so i’m still reading in depth, but his memory model and reflections on decision-making and composition has me excited. 
+
+
+In support of gitShow being composed using something other than Max/MSP, (like starting from the web audio tutorial you shared), or perhaps Flocking. I can really appreciate Clark and Tindale’s emphasis on interoperability here, particularly when I think about the problem of  interpolation-between-versions or between parts of versions.  :
+https://quod.lib.umich.edu/i/icmc/bbp2372.2014.235/1/--flocking-a-framework-for-declarative-music-making-on-theweb?rgn=full+text;view=image
+
+Aaron and Judge’s invokation of ‘non-cochlear’ in terms of “music as social behaviour” is interesting, and makes me want to re-read parts of Kim-Cohen’s blink of an ear, maybe it relates nicely to Haworth and DMIs as texts, or the social network of a VCS. However, their ‘snapshots’ framework operates at the timescale of OSC messages, perhaps too micro-temporal for our use? 
+
+https://quod.lib.umich.edu/cache//b/b/p/bbp2372.2012.041/bbp2372.2012.041.pdf#page=2;zoom=75
+
+
+-what is the ideal time window to do the piece/experiment? (Fall/Winter? any specific month?)
+I do think the Fall would be the ideal time for this. Could we arrange some play sessions in the lab following every 2-3 phases? I’d want to use this to work on the system which determines which versions of a given patch are loaded for a player. I’d also like to arrange a performance for December or January at some venue downtown, like array or trinity square video (the latter of which has an open call due at the end of this month). I also wonder about putting together a networked performance for ICMC, or even ICLC 2019, (the submissions are due at the end of august as well). 
+
+I’m just about to begin a paper with Graham on the alicenode code editors I designed for and with Graham, for submission to ICLC, and I’d love to fold you into this as well. 
+-is there an ideal, min or max number of participants?
+Ideal is 6, i think, including myself. Min is 4, max… not sure. probably 7 or 8… 
+We would need to get every participant to sign the max8-beta NDA, because I want to use the node-for-max objects in this piece. 
+
+
+Best,
+
+Michael
+On Aug 7, 2018, 9:46 PM -0400, Doug Van Nort <dvnt.sea@gmail.com>, wrote:
+Hi Michael,
+
+I think this is a nice idea and I would be happy to dedicate some personal and lab time to it from conception to participating to writing.
+
+Are you still wanting to meet next week to discuss this? I could do so on August 14th (or 15th). 
+
+Meanwhile, a few general questions that would be great to help frame the discussion at the beginning of the process:
+-what would you say are the 1-2 overarching research questions for you in this project? completely OK if these are still rough, but this is an important exercise.
+-what data do you think we should collect and analyze to try and answer these?  
+--(Git commits/diffs? knowledge represented in the code itself? participant comments? I have some intuition of what you might say, but trying to help with the structuring of this from the research side of things.)
+-is there a specific citation that you have for Gell-invoking-Husserl in this way? (text page/passage)
+-do you have any points of reference to past works in the field of computer music that you think this is in dialogue with (building upon, in the spirit of, etc.)? (i.e. from ICMC/NIME/SMC confs or CMJ/JNMR/OS journals, etc.)
+-what is the ideal time window to do the piece/experiment? (Fall/Winter? any specific month?)
+-is there an ideal, min or max number of participants?
+
+Looking forward to discussing more,
+
+Doug
+
+
+
+On Aug 3, 2018, at 5:16 PM, Michael Palumbo <info@palumbomichael.com> wrote:
+
+Hi Doug, here’s a piece I would like to have be considered for the lab’s schedule this year. I envision it taking shape over a couple of weeks, with a performance scheduled for the end of it. Ideally it would involve each of the lab members, first working on instruments then working on each others’ instruments. I’m writing a system based in nodejs which acts as a kind of administrator for the code, instruments, compositions, etc. I’m at this point torn on whether to mandate that the instruments be built using max/msp or the web audio api (perhaps starting from the Reich/Eno javascript systems music article you shared). MaxMsp would afford, likely, more variability in terms of the instruments designed, and might require less time commitment from the participants, but also the max data structures do not play as nicely with version control systems as text-based ones; whereas doing the js webaudio would permit us to use git and diffing to do some neat things with the actual code, but it might be a steeper learning curve. Therefore I think we could start with Max/MSP for this rendition of the piece, and propose a second or third piece for js (perhaps for a conference workshop or festival). 
+
+Working title: ‘git show’ — a pun: the command, followed by a commit hash and filename will return the full state of that file from that point in time; a literal show/performance.
+
+I think we can compose this piece and write about it together. Could we iterate it over a series of group phase pieces? (or write about it each time)
+
+The piece and its system are influenced in part by Gell’s scaling (stretching?) of Husserl’s internal time-consciousness up to an art object’s history. This may also lend itself well to the phase-based structure of git show:
+
+There is one development branch per person, (but not named after them.. perhaps simply ‘object1’ ‘object2’). 
+
+A copy of the structuring system will run on each person’s machine. Likely just a simple nodejs server. 
+
+1st Phase: We have a certain number of days to build an instrument, record a short improvisation with it, and write a short score for the instrument (can be text, graphical, notated). Once these are ready, commit each of these using a commit stability tag “phase-1”. 
+Transition: The system determines which performer checks out which branch (not the same as their own). Perhaps this decision could be based on metrics of each branch (i.e. for the second phase the two most-frequent committers of the last phase check out each other’s branches, the least-frequent get paired, etc; all patches are compared and those which have objects in common (or quantities of same objects, etc) get swapped (or not swapped); and so on. 
+
+2nd-nth phase: Start with the checkout instrument, play its score, listen to the improvisation. make modifications to it. then record an improvisation, write a new score. commit all with a stability tag "phase-2” (maybe we just have to press a button in max and the system will auto tag it with the current phase). The transition will follow*. 
+
+* Phase lengths could be fixed to a few days, or vary and announced at the end of each new transition. 
+
+An additional process in the transition could be to generate diffed audio files, the result of running a diff on two audio files. I wrote a nodejs script which uses the command line audio toolkit ‘sox’ and the unix ‘diff’ command to accomplish this. It yields some interesting sonic results! We could diff recordings of one instrument over its history, and my script could keep a ledger on the .wav parents of each new .wav file generated from a diff. This in itself could spawn another piece or performance. maybe the diffed files and their parents could be used in a modified cataRT corpus.
+
+A performance could be set where the system dynamically loads past and present stable versions of an instrument on each players machine throughout the performance. Could run the system on one of the lab machines. I would like to see mubu and the database integrated into this piece. One way could be to store the commit hash/filename in a mubu session whenever it is requested for a given player. I wonder if the child wave files from diffed parents could also be placed in mubu, and then how could these be manipulated or used?
+
+Thoughts:
+Would more frequent commits offer to us for the paper? If we do want frequent commits, do we make it so that the software system enforces committing i.e. makes commits every time you save; popups to force commiting at intervals, etc.
+
+Number of phases: Not sure yet, maybe one for each person, maybe one more where each instrument is returned to its first author, what do you think?
+
+I don’t want to get too wrapped up in the interface, but it is important to me that the system has some tools which assist creative use of the git system, and I think these could also be influenced by Husserl’s/Gell’s models. I have some working versions of a few tools that could either be forked or pulled directly into the system. 
+
+Something else I’ll note, is that I attended GitHub Constellation Toronto a symposium coordinated by Github last month. One of the conversations I had was with Michael Nguyen who is an engineer at GitHub. He emphasized that one of the key features of github is the ‘pull request’, which is the why and how code was changed, and by who, but more importantly, it means that what is controlled by git is not the ability to copy someone’s work, but the ability to control who can make changes to your work, or what changes may be allowed to be applied. It would be great to compose a piece around the pull request, somehow. 
+
+Best,
+
+Michael
+
+
