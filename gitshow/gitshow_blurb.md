@@ -8,12 +8,12 @@ Scores can be any digital format (text-based, graphic, notated, voiced instructi
 
 Here is perhaps the most fun part!: for the public performance, participants will not know until the moment they go on stage which instrument they will be assigned to perform. 
  Requirements:
--A laptop, audio interface, and Max/MSP (free trial versions last 30 days). 
--Must possess a working knowledge of Max/MSP. 
--Some familiarity with a command line interface and git is also required, although with enough interest a short, focused workshop could be provided to introduce you to these two systems. 
--A github.com account will be required (sign up is free). 
--Must be willing to share all of your work (including rough drafts) as open-source and open-access. 
--A sense of adventure and desire to explore experimental sound-based perofrmance and instrument design!
+- A laptop, audio interface, and Max/MSP (free trial versions last 30 days). 
+- Must possess a working knowledge of Max/MSP. 
+- Some familiarity with a command line interface and git is also required, although with enough interest a short, focused workshop could be provided to introduce you to these two systems. 
+- A github.com account will be required (sign up is free). 
+- Must be willing to share all of your work (including rough drafts) as open-source and open-access. 
+- A sense of adventure and desire to explore experimental sound-based perofrmance and instrument design!
 
 Sign up:
 
