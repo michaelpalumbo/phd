@@ -17,11 +17,14 @@ Scores can be any digital format (text-based, graphic, notated, voiced instructi
 - Must be willing to share all of your work (including rough drafts) as open-source and open-access. 
 - A sense of adventure and desire to explore experimental sound-based perofrmance and instrument design!
 
-Sign up:
+**Sign up:**
 
 Deadline: \[NEED TO SET DATE\]
-Email interest to Michael: info@palumbomichael.com
+
+Email interest to Michael: [info@palumbomichael.com](mailto:info@palumbomichael.com)
+
 Subject: \[gitshow\]
+
 Body:
 Introduce yourself!
 Your laptop's operating system (OSX or Windows)?
