@@ -11,3 +11,5 @@ Buddhism is about losing your sense of self.
 "all that we are is a result of what we have thought" (Debra quotes this in class, I don't know where its from)
 
 most of what we are thinking is delusion.
+
+in anger, the first person you hurt is yourself. 
