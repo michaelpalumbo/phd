@@ -8,7 +8,7 @@ witgenstein language acts in language games. pain language grows out of non-ling
 
 Franz Dewall. Empathy. You share with others. Immediate sharing of someone else's experience. Dewall's work is around empathy. When Wittgenstein talks about non-linguistic communication this relates to this. 
 
-
+ 
 -- compassion // koruna
   - how do we develop this. how do we use it. how does it relate to other things. 
 -- wisdom // prajna

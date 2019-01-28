@@ -25,3 +25,18 @@ Purusa (pronounced 'per-ru-sha'): eternal spiritual aspect.
 Yoga calms the Paktri, making space for purusa. 
 
 ethics is a modern way of looking at how we should relate. 
+
+
+on bringing it back to the self as personal responsibility. friction is important though. 
+
+acceptance, softness, flexibility. 
+
+mind like water: when you drop a stone in water, the water knows exactly how to react, then goes back to stillness. 
+
+
+## intense discipline
+paradox of needing to be discipline 
+
+is discipline the practice, or is discipline what you apply to your practice? (Me)
+
+"this class is not about getting information, its about getting an experience, sharing an experience" (Debra Jan 15)

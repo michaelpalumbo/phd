@@ -10,3 +10,5 @@ Sunyata (sp?) - non-essentialized. there is no essence - in contradiction of Pla
 
 
 - *mahayana* - the great vehicle school. the middle way. Garfield does a great job explaining it. 
+
+- samskhya: fundamentally a dualistic way of speaking. it accepts two different views. 
