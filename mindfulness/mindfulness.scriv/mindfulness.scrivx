@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Identifier="B30E7C54-8AF1-4B9A-8FC5-E8ECF384A167" Version="2.0" Creator="SCRMAC-3.1.1-9852" Device="Michaels-MacBook-Pro" Author="Michael Palumbo" Modified="2019-07-29 21:07:17 -0400" ModID="4E0920E8-CE47-4896-94D3-D61286DBD3A0">
+    <Binder>
+        <BinderItem UUID="D6953AC6-A571-40E9-88F0-AFFD28303116" Type="Folder" Created="2019-04-02 08:58:59 -0400" Modified="2019-04-02 08:59:02 -0400">
+            <Title>Class 11</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="45B3B243-92BD-4A96-AE7A-87A3CC0A8200" Type="Text" Created="2019-04-02 08:59:07 -0400" Modified="2019-04-02 10:03:44 -0400">
+                    <Title>ego death</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>322,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="46B0A478-4DD2-4EEA-8EF4-8F603909A6EF" Type="Folder" Created="2019-03-19 08:56:23 -0400" Modified="2019-03-19 08:56:28 -0400">
+            <Title>class 9</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="C41C8C5B-E193-4AFE-8564-1472DB7891CB" Type="Image" Created="2019-03-19 08:56:01 -0400" Modified="2019-03-19 08:56:01 -0400">
+                    <Title>Scan</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>jpeg</FileExtension>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                    </MetaData>
+                    <MediaSettings>
+                        <ImageScaleFactor>1.79</ImageScaleFactor>
+                        <ImageRotation>None</ImageRotation>
+                        <ImageScalesProportionally>No</ImageScalesProportionally>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="2DD22B20-17A7-4435-B46E-9C5160C29323" Type="Text" Created="2019-03-19 09:06:40 -0400" Modified="2019-03-19 09:07:53 -0400">
+                    <Title>four noble truths</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>89,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="F512C54F-A593-4112-A967-ED9C7977BD3F" Type="Text" Created="2019-03-19 09:07:31 -0400" Modified="2019-03-19 09:15:38 -0400">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>98,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="8B4B8930-6452-47F6-88C0-7FFA3E542AA7" Type="PDF" Created="2019-03-19 09:04:27 -0400" Modified="2019-03-19 09:04:27 -0400">
+                    <Title>Wittgenstein_ Philosophical Investigations</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>14</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="FE4A9218-0F84-4730-84EE-3E2662C452A5" Type="PDF" Created="2019-03-19 10:31:51 -0400" Modified="2019-03-19 10:31:51 -0400">
+                    <Title>Wisdom of The Middle Way - nagarjuna_mulamadhyamakakarika</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>354</CurrentPDFPage>
+                    </MediaSettings>
+                    <Children>
+                        <BinderItem UUID="7AAE626D-2FBE-4492-AA2D-CE426676598E" Type="Text" Created="2019-06-02 21:01:14 -0400" Modified="2019-06-02 21:01:27 -0400">
+                            <Title>notes on Wisdom of the Middle way</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="F6CB8BD7-6613-4F47-8457-B15E3563A1BD" Type="Text" Created="2019-03-19 10:41:29 -0400" Modified="2019-03-19 10:41:59 -0400">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>84,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="9CB0A353-7349-44FB-9A57-6CE604141C36" Type="Text" Created="2019-03-19 08:42:45 -0400" Modified="2019-03-19 09:42:00 -0400">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1258,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="DA45EBF3-2068-4815-85E9-006DB4E648D3" Type="Text" Created="2019-03-19 09:21:15 -0400" Modified="2019-03-19 09:22:10 -0400">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="E5AFAD85-E604-48FF-8369-CF6D19F9A5ED" Type="Text" Created="2019-03-19 08:59:50 -0400" Modified="2019-03-19 09:00:10 -0400">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>26,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="DB959140-7B6B-4CC4-92D5-000B5479758A" Type="DraftFolder" Created="2019-03-19 08:42:45 -0400" Modified="2019-03-19 08:42:45 -0400">
+            <Title>Draft</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem UUID="151FC9EC-FD8C-4415-9464-B1ED80DF8BC7" Type="Text" Created="2019-06-02 20:29:42 -0400" Modified="2019-06-02 20:52:10 -0400">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>118,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="C59F895E-8259-43FD-8815-F29C2D579359" Type="Text" Created="2019-06-02 20:54:25 -0400" Modified="2019-06-02 20:59:12 -0400">
+                    <Title>what do i care about?</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>418,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="2A006305-0DDF-41F9-B925-22D4FBB9DBC8" Type="Text" Created="2019-07-28 17:47:30 -0400" Modified="2019-07-29 20:46:09 -0400">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>755,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="41D88653-EBB3-436B-A6D3-5EF955706289" Type="Text" Created="2019-06-02 21:11:19 -0400" Modified="2019-06-03 20:12:00 -0400">
+                    <Title>ego death</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>125,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="414872E5-1E46-40C4-B877-24E4D42C4204" Type="Text" Created="2019-06-03 20:11:53 -0400" Modified="2019-06-03 20:12:06 -0400">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>112,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="3148EDC3-36A3-477B-9427-3E9CB11614C4" Type="Text" Created="2019-06-02 22:29:12 -0400" Modified="2019-07-29 21:07:17 -0400">
+                    <Title>draft!</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>8948,27</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="34A8E3DC-B9F2-453D-B5FD-DD9E87CD417C" Type="ResearchFolder" Created="2019-03-19 08:42:45 -0400" Modified="2019-03-19 08:42:45 -0400">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+        <BinderItem UUID="1A2135AF-0163-4CD2-BE3F-3F9A53A08018" Type="TrashFolder" Created="2019-03-19 08:42:45 -0400" Modified="2019-03-19 08:42:45 -0400">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+        <BinderItem UUID="FDD15CBC-62D2-454F-97CF-1AAD8CE2A88A" Type="Text" Created="2019-06-06 11:38:38 -0400" Modified="2019-06-07 14:22:23 -0400">
+            <Title>outline</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>70,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem UUID="1B2F50F2-CD96-4385-BBDA-B0CB446B2171" Type="Folder" Created="2019-06-03 20:12:19 -0400" Modified="2019-06-03 20:13:07 -0400">
+            <Title>1. my work</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="9B2A0410-B7EA-4D77-8CC4-FBEB6482CCD8" Type="Text" Created="2019-06-06 11:41:06 -0400" Modified="2019-06-07 20:12:44 -0400">
+                    <Title>modular synthesis</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,12061</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="21EC0573-DCCC-4BD3-B7FB-00C6F2FF598E" Type="Folder" Created="2019-06-03 20:12:26 -0400" Modified="2019-06-03 20:13:51 -0400">
+            <Title>2. precedents</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="BFC67B7A-866F-41EF-A6C4-DB21691B374B" Type="Text" Created="2019-06-02 22:29:18 -0400" Modified="2019-06-03 19:49:31 -0400">
+                    <Title>The Sonstruct of Mindfulness</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>878,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="918133E7-54F1-46DF-9176-1CD5CB9320F0" Type="Text" Created="2019-06-03 20:25:31 -0400" Modified="2019-06-03 21:03:17 -0400">
+                    <Title>deep listening</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1485,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="4A652287-0080-4407-A6F4-F11170CF4778" Type="Text" Created="2019-06-03 21:03:20 -0400" Modified="2019-06-04 21:24:24 -0400">
+                            <Title>deep listening vs meditation</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>778,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="FEF02AA0-8294-4D15-B198-1EAC8C08DC0E" Type="Text" Created="2019-06-03 20:41:32 -0400" Modified="2019-06-03 21:00:11 -0400">
+                    <Title>consciousness</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>928,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="AD199374-77C1-405C-A2D8-7FE167948136" Type="Text" Created="2019-07-27 03:32:29 -0400" Modified="2019-07-27 04:47:34 -0400">
+                    <Title>framing in EA</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>330,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="2399B369-379B-4CA8-AD7E-1EBFF66D3FAC" Type="Text" Created="2019-07-27 12:49:06 -0400" Modified="2019-07-27 13:35:59 -0400">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>683,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="57A93968-3CAD-4326-91C1-6A36639AE45A" Type="Text" Created="2019-07-27 13:58:40 -0400" Modified="2019-07-27 14:13:00 -0400">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>2057,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="F06521FB-334A-4C58-9600-A4A320DC7988" Type="Text" Created="2019-07-27 15:50:21 -0400" Modified="2019-07-28 16:23:12 -0400">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>3455,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="2DC3FAE4-64EE-4551-8133-FEE467FC4367" Type="Text" Created="2019-07-28 16:01:57 -0400" Modified="2019-07-28 16:02:19 -0400">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>42,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="ECA00D3D-D649-4696-A3E0-23249EED3F77" Type="Text" Created="2019-06-03 20:46:39 -0400" Modified="2019-06-03 20:47:26 -0400">
+                    <Title>hearing and listening</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>158,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="B53C31E0-AA4D-4F7D-B8C1-5BFB5CE3BB3A" Type="Text" Created="2019-06-02 20:32:37 -0400" Modified="2019-06-02 20:36:28 -0400">
+                    <Title>mindful apps</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>226,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="BB762F88-D3D4-4101-8E5A-D37D9893039E" Type="Text" Created="2019-06-03 20:14:28 -0400" Modified="2019-06-11 14:05:07 -0400">
+                    <Title>cutting room floor</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>531,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="071B7A44-4FC7-40EF-B673-03186F843C31" Type="Folder" Created="2019-06-03 20:12:31 -0400" Modified="2019-06-03 20:13:59 -0400">
+            <Title>3. criticisms</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="E1599C94-2328-4E04-9976-37E47B445258" Type="Text" Created="2019-06-02 20:51:52 -0400" Modified="2019-06-02 20:52:00 -0400">
+                    <Title>On McMindfulness</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>204,0</TextSelection>
+                    </TextSettings>
+                    <Bookmarks>
+                        <Bookmark BinderUUID="151FC9EC-FD8C-4415-9464-B1ED80DF8BC7"></Bookmark>
+                    </Bookmarks>
+                </BinderItem>
+                <BinderItem UUID="CBD86644-4A5B-4F6D-B04D-B2743F6712B4" Type="Text" Created="2019-06-03 20:35:51 -0400" Modified="2019-06-03 20:36:58 -0400">
+                    <Title>deep listening</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>215,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="444F04D5-C291-47EC-9DEE-B1B29927C817" Type="Text" Created="2019-06-03 20:51:08 -0400" Modified="2019-06-03 20:53:54 -0400">
+                    <Title>possible use for discussing experiential and [science] each having their place and not being able to replace the other</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>405,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="E0A49653-A054-4B37-941A-198E41D183FD" Type="Text" Created="2019-06-06 13:51:06 -0400" Modified="2019-06-06 13:57:04 -0400">
+                    <Title>quality</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>408,9</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="B6C1CECC-493D-43C5-B1A4-EFE948560BC5" Color="0.924849 0.924014 0.949681">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="89F0831A-EC2A-42BC-A829-D414401D69CA" Color="0.922176 0.818589 0.999618">
+            <Title>Search Results</Title>
+        </Collection>
+    </Collections>
+    <SectionTypes>
+        <TypeDefinitions>
+            <Type ID="B88289F4-38B4-435F-8716-C444575153FE">Heading</Type>
+            <Type ID="97204E32-4252-4B7B-9598-BDCDD444E6F3">Sub-Heading</Type>
+            <Type ID="CD28DCC3-0365-45A3-A1BF-3684B005736E">Section</Type>
+        </TypeDefinitions>
+        <LevelTypes>
+            <Folders>
+                <Type>B88289F4-38B4-435F-8716-C444575153FE</Type>
+            </Folders>
+            <Containers>
+                <Type>CD28DCC3-0365-45A3-A1BF-3684B005736E</Type>
+            </Containers>
+            <Files>
+                <Type>CD28DCC3-0365-45A3-A1BF-3684B005736E</Type>
+            </Files>
+        </LevelTypes>
+    </SectionTypes>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="0.993495 0.701207 0.732587">Red</Label>
+            <Label ID="1" Color="0.995418 0.790946 0.652385">Orange</Label>
+            <Label ID="2" Color="0.997722 0.89273 0.652569">Yellow</Label>
+            <Label ID="3" Color="0.715855 0.948712 0.697692">Green</Label>
+            <Label ID="4" Color="0.702319 0.888276 0.974252">Blue</Label>
+            <Label ID="5" Color="0.957566 0.766747 0.999616">Purple</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">To Do</Status>
+            <Status ID="1">In Progress</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2019-03-19 08:42:45 -0400" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2019-09-04 11:10:58 -0400"></PreviousSession>
+    </ProjectTargets>
+    <RecentWritingHistory Date="2019-09-04 00:00:00 -0400">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
+    </RecentWritingHistory>
+    <PrintSettings PaperSize="611.999993,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScrivenerProject>

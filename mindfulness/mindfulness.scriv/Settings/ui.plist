@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NotesScaleFactor</key>
+	<real>1</real>
+	<key>binderSplitFrames</key>
+	<array>
+		<string>{{0, 0}, {175, 942}}</string>
+		<string>{{176, 0}, {1473, 942}}</string>
+	</array>
+	<key>collectionsRepresentedBinderDocumentsInfo</key>
+	<dict>
+		<key>MainID</key>
+		<string></string>
+		<key>SupportingID</key>
+		<string></string>
+	</dict>
+	<key>editorSplitFrames</key>
+	<array>
+		<string>{{0, 0}, {631, 912}}</string>
+		<string>{{632, 0}, {613, 912}}</string>
+	</array>
+	<key>fullScreenTextEditorSettings</key>
+	<dict>
+		<key>textScaleFactor</key>
+		<real>1.25</real>
+	</dict>
+	<key>inspectorSplitFrames</key>
+	<array>
+		<string>{{0, 0}, {1245, 912}}</string>
+		<string>{{1246, 0}, {227, 912}}</string>
+	</array>
+	<key>inspectorWidth</key>
+	<real>245</real>
+	<key>lastDocumentSplitType</key>
+	<integer>1</integer>
+	<key>mainDocumentEditor.PDFAutoScales</key>
+	<false/>
+	<key>mainDocumentEditor.PDFScale</key>
+	<real>1.0801364183425903</real>
+	<key>mainDocumentEditor.dockedQRTextSettings</key>
+	<dict>
+		<key>textScaleFactor</key>
+		<real>1</real>
+	</dict>
+	<key>mainDocumentEditor.scrollRect</key>
+	<string>{{0, 1488}, {620, 856}}</string>
+	<key>mainDocumentEditor.textEditorState</key>
+	<dict>
+		<key>textScaleFactor</key>
+		<real>1</real>
+	</dict>
+	<key>mainWindowFrame</key>
+	<string>31 40 1649 987 0 0 1680 1027 </string>
+	<key>supportingDocumentEditor.dockedQRTextSettings</key>
+	<dict>
+		<key>textScaleFactor</key>
+		<real>1</real>
+	</dict>
+	<key>supportingDocumentEditor.scrollRect</key>
+	<string>{{0, 0}, {408.66666666666669, 570.66666666666663}}</string>
+	<key>supportingDocumentEditor.textEditorState</key>
+	<dict>
+		<key>textScaleFactor</key>
+		<real>1.5</real>
+	</dict>
+	<key>supportingDocumentViewIsCurrent</key>
+	<false/>
+</dict>
+</plist>

@@ -1,0 +1,1 @@
+![](/Users/mp/gitshow/media/Duchamp_network of stoppages.jpg)
